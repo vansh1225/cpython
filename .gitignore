@@ -37,7 +37,6 @@ __pycache__
 tags
 TAGS
 .vs/
-.vscode/
 gmon.out
 .coverage
 .mypy_cache/
@@ -161,3 +160,7 @@ Python/frozen_modules/MANIFEST
 
 # main branch only: ABI files are not checked/maintained.
 Doc/data/python*.abi
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
